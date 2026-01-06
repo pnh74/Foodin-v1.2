@@ -1,0 +1,7 @@
+{
+  "name": "Foodin 1.2",
+  "description": "The most addictive food discovery platform in Vietnam. Swipe, discover, and decide what to eat with AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
